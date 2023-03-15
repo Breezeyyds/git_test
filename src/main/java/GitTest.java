@@ -4,7 +4,7 @@ public class GitTest {
         System.out.println("hello.git");
         System.out.println("hot-fix");
         System.out.println("conflict by hot fix");
-        System.out.println("45667");
+        System.out.println("push test");
 
     }
 }
